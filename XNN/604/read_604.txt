@@ -1,0 +1,7 @@
+m,john,200
+p,jack,150
+p,lily,150
+p,corena,140
+f,david,180
+f,bob,180
+f,helen,190

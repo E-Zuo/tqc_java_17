@@ -1,0 +1,5 @@
+﻿jack,500,d
+jack,250,w
+jack,1000,d
+jack,200,w
+jack,500,w

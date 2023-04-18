@@ -1,0 +1,9 @@
+jack,500,d
+jack,250,w
+lily,1000,d
+jack,200,w
+jack,500,d
+lily,500,d
+jack,500,d
+lily,200,w
+jack,100,w
